@@ -1,2 +1,2 @@
-# GraphQL-API
-Getting Started with GraphQL
+# Node Express Graphql API
+Node & Express GraphQL API Example
